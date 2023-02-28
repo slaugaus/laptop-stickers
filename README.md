@@ -1,2 +1,1 @@
-# laptop-stickers
-I told you it was forkable
+![](./IMG_20230221_103307242.jpg)
